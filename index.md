@@ -1,64 +1,64 @@
 ---
-title: LingoX
+title: 语桥
 ---
 
-If you want to learn English through Chinese, `LingoX` might be able to help you.
+如果你想通过中文学英语，「语桥」可能帮你。
 
-## Principle
+## 原理
 
-Language is the shell of thought, and thought is the core of language.
+语言是思维的外壳，思维是语言的内核。
 
-If you can express your ideas in Chinese, you can quickly learn to express them in other languages. This is because when you can express your ideas, you have already understood various abstract nouns and have a certain ability for logical reasoning. Expressing in Chinese is just one form of thought expression, and thought can be expressed through different languages.
+如果你可以用中文表达观点，那么你可以很快学会用其他语言表达观点。因为当你可以表达观点时，你已经理解了各种抽象的名词，有了一定的逻辑推理能力。中文表达只是思维的一种表达形式，思维可以通过不同语言来表达。
 
-Language can be compared to musical instruments, and thought can be compared to music theory.
+语言可以类比乐器，思维可以类比乐理。
 
-Music theory remains the same, but the use of musical instruments varies. Even if you are very good at playing the piano, if you have never learned to play the guitar, you will not play it well. Those who understand music theory can learn musical instruments quickly because the knowledge of music theory is already well-internalized, and practicing another musical instrument is just a matter of getting the muscles used to another tool.
+乐理是相同的，乐器的使用却不同。即使你弹钢琴很厉害，但如果你没学过吉他，你也一样弹不好。懂乐理的人学乐器很快，因为乐理知识早就烂熟于心，练另一门乐器只不过是让肌肉熟悉另一个工具罢了。
 
-Learning a new language is like learning a new musical instrument.
+学新语言和学新乐器一样。
 
-Once you can express your ideas fluently in Chinese, it means you have mastered the descriptive and reasoning abilities of thought expression. Then, asking you to express your ideas in English is nothing more than asking you to use another set of pronunciation skills and grammatical rules to express the content.
+一旦你可以用中文流畅地表达你的观点，说明你已经掌握了思维表达的描述能力和推理能力。再让你用英语来表达观点，无非是让你用另一套发音技巧和语法规则把内容表达出来罢了。
 
-Next are the specific steps for learning English.
+接下来是学习英语的具体步骤。
 
-## 1. Master Phonetics
+## 1. 音标掌握
 
-If you want to learn English, start by learning the phonetics of English.
+你要学习英语，那么就先把英语的音标学会。
 
-This learning process should not exceed one week.
+这个学习过程不要超过一周。
 
-## 2. Express in Chinese
+## 2. 中文表达
 
-Each idea is unfolded in the form of a `topic`.
+每个观点以「话题」的形式展开。
 
-In `LingoX`, you can create a new note and write down what you want to say in Chinese. If you really don't know what to write, try describing your life trajectory, also known as a diary of daily events.
+在「语桥」中，你可以新建一个笔记，把你想说的话用中文记下来。如果你实在不知道写什么，就尝试描述自己的生活轨迹，也就是所谓的流水账日记。
 
-When recording, pay attention to breaking it into multiple paragraphs, each paragraph being a practice unit, and each paragraph should not exceed 5 sentences.
+记录时要注意多分段，每一个段落就是一个练习单元，一个段落尽量不要超过 5 句话。
 
-## 3. Translate Notes
+## 3. 翻译笔记
 
-Each note provides a translation function.
+每个笔记都提供了翻译功能。
 
-After finishing your note, you can enter the practice phase.
+记录完笔记后，即可进入练习阶段。
 
-You can click `Translate`, and at this point, the AI will help you translate your content into English.
+你可以点击「翻译」，此时 AI 会帮你把你的内容翻译成英语。
 
-After clicking on the translation, the system will recite it, and you can practice pronunciation along with the system.
+点击译文后，系统会进行朗诵，你可以跟着系统练习发音。
 
-You can also modify the translation.
+同时你可以对译文进行修改。
 
-## 4. Understand Details
+## 4. 细节理解
 
-During the process of following the recitation, if you do not understand some words or grammar:
+在跟读的过程中，如果你不理解一些单词或语法：
 
-- Those with a solid vocabulary use an electronic dictionary.
-- Those with a weak vocabulary use vocabulary learning software.
+- 单词基础扎实的人用电子词典
+- 单词基础薄弱的人用背单词软件
 
-If you don't understand the grammar, ask ChatGPT or KIMI.
+语法不懂就问 ChatGPT 或者 KIMI。
 
-## 5. Practice Duration
+## 5. 练习时长
 
-When you express your ideas in English, you are using a tool, not learning a tool.
+当你用英语表达观点时，你是在使用工具，而不是学习一门工具。
 
-Practice is the best teacher. At first, you may feel a bit uncomfortable and often rely on tools like ChatGPT. But soon you will find that English has many repetitive patterns, and the frequency of using ChatGPT will become lower and lower, and your confidence will become stronger and stronger, because using English itself is a process of continuously verifying its effectiveness.
+实践是最好的老师，一开始你可能会有点不适应，而且会经常借助 ChatGPT 等工具。但很快你会发现，英语存在很多重复的模式，你使用 ChatGPT 的频率会越来越低，你的自信心也越来越强，因为使用英语本身就是不断验证有效性的过程。
 
-Within three months, you will fall in love with expressing yourself in English.
+不出三个月，你会爱上用英语表达。
