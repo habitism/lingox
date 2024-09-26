@@ -1,5 +1,5 @@
 ---
-title: LingoX
+title: 语桥
 ---
 
 These Terms of Use constitute a legal agreement between you and the developer regarding your use of this application (LingoX).

@@ -1,5 +1,5 @@
 ---
-title: LingoX
+title: 语桥
 ---
 
 I (the developer) will not collect any data using this application.
