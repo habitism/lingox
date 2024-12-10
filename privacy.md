@@ -2,8 +2,9 @@
 title: 语桥
 ---
 
-I (the developer) will not collect any data using this application.
+我（开发者）不会通过这个应用程序收集任何数据。
 
-All information you record will be stored only on your device and your iCloud account, and will not be accessible to me or anyone else who cannot access your iCloud account.
+你记录的所有信息只会存储在你的设备和你的 iCloud 账户中，不会对我或任何无法访问你 iCloud 账户的其他人开放。
 
-Information stored on iCloud can be synced across your devices.
+存储在 iCloud 上的信息可以在你的设备之间同步。
+

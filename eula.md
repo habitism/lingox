@@ -2,44 +2,44 @@
 title: 语桥
 ---
 
-These Terms of Use constitute a legal agreement between you and the developer regarding your use of this application (LingoX).
+这些使用条款构成了你和开发者之间关于你使用此应用程序（语桥）的法律协议。
 
-### 1. Grant of License
+### 1. 授权许可
 
-The developer grants the user a non-exclusive, non-transferable license to use the application in accordance with this agreement.
+开发者授予用户一个非独占性、不可转让的许可，以根据本协议使用应用程序。
 
-### 2. Usage Restrictions
+### 2. 使用限制
 
-The user shall not:
+用户不得：
 
-- Decompile or attempt to obtain the source code of the application;
-- Transfer, sublicense, or distribute the application;
-- Use the application in violation of any laws.
+- 反编译或试图获取应用程序的源代码；
+- 转让、再授权或分发应用程序；
+- 违反任何法律使用应用程序。
 
-### 3. Intellectual Property
+### 3. 知识产权
 
-Ownership and intellectual property rights of the application belong to the developer.
+应用程序的所有权和知识产权归开发者所有。
 
-### 4. Privacy Policy
+### 4. 隐私政策
 
-Users must comply with the developer's [Privacy Policy](./privacy) when using the application.
+用户在使用应用程序时必须遵守开发者的[隐私政策](./privacy)。
 
-### 5. Termination
+### 5. 终止协议
 
-The developer has the right to terminate this agreement if the user violates it, and the user must stop using and delete the application.
+如果用户违反本协议，开发者有权终止本协议，用户必须停止使用并删除应用程序。
 
-### 6. Disclaimer
+### 6. 免责声明
 
-The application is provided "as is" without any warranties from the developer.
+开发者不提供任何保证。
 
-### 7. Limitation of Liability
+### 7. 责任限制
 
-The developer is not liable for any indirect damages, and the total liability shall not exceed the fees paid by the user.
+开发者不对任何间接损害负责，总责任不超过用户支付的费用。
 
-### 8. Governing Law
+### 8. 适用法律
 
-This agreement is governed by the laws of China.
+本协议受中国法律管辖。
 
-### 9. Changes to Terms
+### 9. 条款变更
 
-The developer may modify this agreement at any time.
+开发者可以随时修改本协议。
